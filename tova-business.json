@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-22T15:30:42.908Z",
+  "slug": "beyonce",
+  "name": "Beyonce Hair Extensions",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Hair salons & barbers",
+    "niche": "hair salons & barbers",
+    "group": "Beauty & wellness"
+  },
+  "contact": {
+    "phone": "+6433318160",
+    "email": "beyoncenz@gmail.com",
+    "address": "464 Papanui Road, Christchurch"
+  },
+  "social": {},
+  "about": {},
+  "before": {
+    "url": "http://www.beyonce.co.nz",
+    "domain": "beyonce.co.nz",
+    "finalUrl": "http://www.beyonce.co.nz/",
+    "pages": 1,
+    "score": 82,
+    "assessedAt": "2026-11-21T12:50:17.832Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-https",
+        "title": "Not served over HTTPS",
+        "evidence": "Final URL is http://www.beyonce.co.nz/. Browsers label this site \"Not secure\"."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "weak-title",
+        "title": "Weak or missing page title",
+        "evidence": "No <title> found, hurting Google search appearance."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/beyonce-hair-extensions/",
+    "repoUrl": "https://github.com/tova-studio/beyonce-hair-extensions",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-22T15:30:42.908Z"
+  }
+}
